@@ -2,7 +2,7 @@
 
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-lázaro-9a95a587/)](https://www.linkedin.com/in/israel-lázaro-9a95a587/)
+ [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/israel-lázaro-9a95a587/)](https://www.linkedin.com/in/israel-lázaro-9a95a587/)
 
 ##### Sobre mim  
 * :books:  Graduação em Licenciatura em Química - UFCG
