@@ -1,5 +1,7 @@
-### Olá! Eu sou Israel Lázaro 👋
-#### Hi! I am Israel Lázaro 👋
+## Olá! Eu sou Israel Lázaro 👋
+
+
+ ![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=Linkedin&labelColor=blue&link=https://www.linkedin.com/in/israel-lázaro-9a95a587/)
 
 ##### Sobre mim  
 * :books:  Graduação em Licenciatura em Química - UFCG
