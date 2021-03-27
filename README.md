@@ -3,6 +3,8 @@
 
 
  [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/israel-lázaro-9a95a587/)](https://www.linkedin.com/in/israel-lázaro-9a95a587/)
+ [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:israel.lazaro@academico.ifpb.edu.br)
+ 
 
 ##### Sobre mim  
 * :books:  Graduação em Licenciatura em Química - UFCG
