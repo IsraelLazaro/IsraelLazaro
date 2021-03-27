@@ -1,4 +1,4 @@
-## Olá! Eu sou Israel Lázaro 👋
+## Olá! Eu sou Israel Lázaro :floppy_disk:
 
 
 
@@ -7,10 +7,18 @@
  
 
 ##### Sobre mim  
+
 * :books:  Graduação em Licenciatura em Química - UFCG
 * :books:  Especialização em Ensino de Ciências Naturais e Matemática - IFRN
 * :school: Professor no estado do Rio Grande do Norte - SEEC/RN
 * :books:  Graduando em Análise e Desenvolvimento de Sistemas - IFPB
+
+## Interesses de estudo
+
+* JavaScript
+* Programação para A.I
+
+![](https://lh3.googleusercontent.com/proxy/QUV4YRxMqAPPqHhV-TpdcZYULqjdyNlXETf8u6iUtD5YrfiDSwqSbBdksOOSLH7iL5y0JixfyYyRMTNS7-OzCxemLRuvWQLYzwidtLsqSm5E28Xti9Ow02pWdUq1D7E)
 
 <!--
 **IsraelLazaro/IsraelLazaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
