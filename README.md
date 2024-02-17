@@ -16,7 +16,8 @@
 ## Interesses de estudo
 
 * JavaScript
-* Programação para A.I
+* Python
+* React Native
 
 
 
