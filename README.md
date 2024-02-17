@@ -18,7 +18,7 @@
 * JavaScript
 * Programação para A.I
 
-![](https://www.bustan.ca/DesktopModules/CATALooKStore/Skins/BustanProduction/loading.gif)
+
 
 <!--
 **IsraelLazaro/IsraelLazaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
