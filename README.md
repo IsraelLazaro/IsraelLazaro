@@ -1,5 +1,6 @@
-## Olá! Eu sou Israel Lázaro :floppy_disk:
+## Olá! Eu sou Israel Lázaro  <img src="https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/053f8ad0-0e01-404b-99aa-314558300bb2" alt="imagem" width="30"/>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
 
  [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/israel-lázaro-9a95a587/)](https://www.linkedin.com/in/israel-lázaro-9a95a587/)
@@ -13,13 +14,19 @@
 * :school: Professor no estado do Rio Grande do Norte - SEEC/RN
 * :books:  Graduando em Análise e Desenvolvimento de Sistemas - IFPB
 
-## Interesses de estudo
-
-* JavaScript
-* Python
-* React Native
 
 
+
+## Tecnologias estudadas <img src="https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/06040496-925f-460e-b248-c7f52ffb8f05" alt="imagem" width="30"/>
+
+
+| Tecnologia    | Básico                             | Desejável                          | Intermediário                     | Avançado                        |
+|---------------|------------------------------------|------------------------------------|-----------------------------------|---------------------------------|
+| ![image](https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/606334e4-8804-44e6-a140-3234872c04bd)  | 🟩🟩🟩🟩🟩                      | 🟩🟩🟩🟩🟩                       | 🟩🟩⬜⬜⬜                      | ⬜⬜⬜⬜⬜                   |
+| ![image](https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/dd8015aa-2ffa-42d9-a1a5-67554c05dc48)  | 🟩🟩🟩🟩🟩                      | 🟩⬜⬜⬜⬜                       | ⬜⬜⬜⬜⬜                      | ⬜⬜⬜⬜⬜                   |
+| ![image](https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/49a61089-6bc8-4d62-80fa-f980a6f67506)  | 🟩🟩🟩⬜⬜                      | ⬜⬜⬜⬜⬜                       | ⬜⬜⬜⬜⬜                      | ⬜⬜⬜⬜⬜                   |
+| ![image](https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/d4f00d0a-81db-4dfe-942d-83e8742e50b4)  | 🟩🟩🟩🟩🟩                      | 🟩🟩🟩⬜⬜                       | ⬜⬜⬜⬜⬜                      | ⬜⬜⬜⬜⬜                   | 
+| ![image](https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/74a9a86c-b71f-4072-b221-a575dcb1d7c0)  | 🟩🟩🟩🟩🟩                      | 🟩🟩🟩🟩🟩                       | ⬜⬜⬜⬜⬜                      | ⬜⬜⬜⬜⬜                   | 
 
 <!--
 **IsraelLazaro/IsraelLazaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
