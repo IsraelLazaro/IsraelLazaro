@@ -27,7 +27,7 @@
 | ![image](https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/49a61089-6bc8-4d62-80fa-f980a6f67506)  | 🟩🟩🟩⬜⬜                      | ⬜⬜⬜⬜⬜                       | ⬜⬜⬜⬜⬜                      | ⬜⬜⬜⬜⬜                   |
 | ![image](https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/d4f00d0a-81db-4dfe-942d-83e8742e50b4)  | 🟩🟩🟩🟩🟩                      | 🟩🟩🟩⬜⬜                       | ⬜⬜⬜⬜⬜                      | ⬜⬜⬜⬜⬜                   | 
 | ![image](https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/74a9a86c-b71f-4072-b221-a575dcb1d7c0)  | 🟩🟩🟩🟩🟩                      | 🟩🟩🟩🟩🟩                       | ⬜⬜⬜⬜⬜                      | ⬜⬜⬜⬜⬜                   | 
-
+| ![image](https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/1e278e7c-d044-440f-84a9-fc1c7c283322)  | 🟩🟩🟩🟩🟩                      | 🟩🟩🟩⬜⬜                       | ⬜⬜⬜⬜⬜                      | ⬜⬜⬜⬜⬜                   | 
 <!--
 **IsraelLazaro/IsraelLazaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
