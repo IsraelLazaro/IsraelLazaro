@@ -1,6 +1,6 @@
 ## Olá! Eu sou Israel Lázaro  <img src="https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/053f8ad0-0e01-404b-99aa-314558300bb2" alt="imagem" width="30"/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
+<img src="https://i.ibb.co/LxMF1NB/NOTGIT.png" alt="NOT" border="0" alt="ilustração de um computador" min-width="400px" max-width="400px" width="250px" align="right">
 
 
  [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/israel-lázaro-9a95a587/)](https://www.linkedin.com/in/israel-lázaro-9a95a587/)
