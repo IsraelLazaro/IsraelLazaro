@@ -1,12 +1,12 @@
 ## Olá! Eu sou Israel Lázaro  <img src="https://github.com/IsraelLazaro/IsraelLazaro/assets/78174832/053f8ad0-0e01-404b-99aa-314558300bb2" alt="imagem" width="30"/>
 
 
-
+<img src="https://i.postimg.cc/1Xfy2Wm0/NOTGIT.png" alt="NOT" border="0" alt="ilustração de um computador" min-width="400px" max-width="400px" width="250px" align="right">
 
  [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/israel-lázaro-9a95a587/)](https://www.linkedin.com/in/israel-lázaro-9a95a587/)
  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:israel.lazaro@academico.ifpb.edu.br)
  
-<img src="https://i.postimg.cc/1Xfy2Wm0/NOTGIT.png" alt="NOT" border="0" alt="ilustração de um computador" min-width="400px" max-width="400px" width="250px" align="right">
+
 ##### Sobre mim  
 
 * :books:  Graduação em Licenciatura em Química - UFCG
